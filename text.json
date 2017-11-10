@@ -1123,7 +1123,7 @@
     },
     "test_links" : {
         "EN": {
-            "intro": "This page will show a link to the appropriate test if it's been long enough since your last attempt (and you're qualified/paid). Otherwise, it'll tell you when this test will be available. ",
+            "intro": "Due to an error, this page can not show you when your next attempt is available. You are responsible for your own cooling down period. Please contact us through email if you want to know when you can take the test again.  ",
             "remember": "Remember that upon creation of an account, you agreed to the",
             "code": "Ref's Code", 
             "therein": "and all articles therein. ",
